@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The constancy of the people called Quakers. In their testimony against popery, sincerely asserted, in opposition to a perverss [sic] lybel, falsly stiled, A looking-Glass for the Quakers, (in two collumns) sallaciously mis-representing them: / Humbly offered to publick and impartial view.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02355</idno>
+            <idno type="STC">Wing C5937A</idno>
+            <idno type="STC">ESTC R171508</idno>
+            <idno type="EEBO-CITATION">47012357</idno>
+            <idno type="OCLC">ocm 47012357</idno>
+            <idno type="VID">174325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174325)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2684:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The constancy of the people called Quakers. In their testimony against popery, sincerely asserted, in opposition to a perverss [sic] lybel, falsly stiled, A looking-Glass for the Quakers, (in two collumns) sallaciously mis-representing them: / Humbly offered to publick and impartial view.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: "London, the 30th of the [ ] Month, called May 1689. Written in behalf of the Peaceable People of God called, Quakers, by some of them."</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William 1644-1718.</term>
+               <term>Pennyman, Joseph. --  Looking-glass for the Quakers.</term>
+               <term>Looking-glass for the Quakers.</term>
+               <term>Society of Friends --  Great Britain --  History --  17th century --  Sources.</term>
+               <term>Society of Friends --  Anonymous writings --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174325:1" rendition="simple:additions"/>
+            <head>THE CONSTANCY, Of the <hi>People called Quakers,</hi> In their Teſtimony againſt POPERY, ſincerely Aſſerted, in Oppoſition to a Perverſs <hi>Lybel,</hi> falſly Stiled, <hi>A Looking-Glaſs for the Q<g ref="char:V">Ʋ</g>AKERS,</hi> (in Two Collumns) Fallaciouſly Miſ-repreſenting them: Humbly Offered to Publick and Impartial View.</head>
+            <p>THE Title beſpeaks the injurious Deſign and Attempt of the Obſcure <hi>Author,</hi> Unjuſtly and Maliciouſly to Expoſe the People called <hi>Quakers,</hi> either as In<g ref="char:EOLhyphen"/>conſiſtent with their Profeſſion againſt <hi>Popery;</hi> or as uncertain Tempori<g ref="char:EOLhyphen"/>zers, and no real <hi>Proteſtants,</hi> (which is a Slanderous Inſinuation) for ſayes he, <hi>The firſt Collumn is what they formerly Publiſhed againſt</hi> Papiſts; <hi>and the other Collumn is what they Publiſhed on their behalf, when uppermoſt.</hi> Wherein 'tis obſervable, that he renders all the words he has Cited in both his Collumns, to be what the <hi>Quakers</hi> have Publiſh<g ref="char:EOLhyphen"/>ed, concluding his Pamphlet, to be <hi>Only the</hi> Quakers <hi>own Words, without any Obſerva<g ref="char:EOLhyphen"/>tions</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>8</label> 
+               <hi>or Remarks;</hi> Which is apparrently Falſe, as well as Scandalous; a great part of his Collections being none of the <hi>Quakers</hi> Words, Language or Books, but ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me other Nameleſs Pamplets, which the Libeller unjuſtly fathereth upon the People called <hi>Quakers.</hi>
+            </p>
+            <p>'Tis true, he Quotes <hi>William Penn,</hi> Page 4. in his ſecond Collumn againſt <hi>Papiſts</hi> and <hi>Popes,</hi> and their Perſecutions, <hi>&amp;c.</hi> and not on <hi>Papiſts</hi> behalf, whereby he hath gi<g ref="char:EOLhyphen"/>ven the Lye to his Title Page. And we doubt not, but by the Grace of God <hi>William Penn</hi> will ſincerely keep to his Teſtimony againſt Popery and Perſecution. However, he be Unjuſtly Repreſented to the contrary by falſe Repotts, Prejudice or Envy: To his own vindication, in Anſwer to the Letter directed to Mr <hi>Penn,</hi> we Refer the Un<g ref="char:EOLhyphen"/>prejudiced Reader for further ſatisfaction. And we cannot ſee how <hi>William Penn,</hi> or others of our Friends Writing againſt Perſecution, both among <hi>Papiſts</hi> and others, and for <hi>Liberty of Conſcience</hi> towards God, can with any Colour of Reaſon be conſtru<g ref="char:EOLhyphen"/>ed,<label type="milestone">
+                  <seg type="milestoneunit">Page </seg>5</label> either for Popery, or in the <hi>Papiſts</hi> behalf, as <hi>Papiſts;</hi> there being nothing more con<g ref="char:EOLhyphen"/>trary or repugnant to <hi>Popery</hi> it ſelf, or the deſign thereof, then the free Enjoyment of a real <hi>Liberty of Conſcience</hi> in matters of Religion and Worſhip, which <hi>Popery</hi> it ſelf allows not Diſſenters, tho we cannot therefore think it Chriſtian to Retaliate upon <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> by rendering Evil for Evil, to deſtroy them only for their Conſciences in Reli<g ref="char:EOLhyphen"/>gious matters; thus none would be ſerved.</p>
+            <p>What perſwaſive Arguments for Moderation have been written to <hi>Proteſtants</hi> in general, or to the <hi>Church of England</hi> in particular, againſt Corporal or pecuniary Puniſhments for Religious Diſſent, or for Repeal of Diſtructive <hi>Penal Laws</hi> in that Caſe, (ſome whereof being even againſt diſſenting <hi>Proteſtants</hi>) all conſcientious Diſſenters, even <hi>Proteſtants</hi> themſelves; were and are of the ſame mind, it being moſt natural for Perſons when under Oppreſſion, to deſire their Burthens may
+<pb n="2" facs="tcp:174325:2"/>be wholly removed, (and bleſſed be God that ſome legal Reſtraint is put to thoſe Laws) a thing ſo highly commendable in the Civil Government:) And we ſee no cauſe of Re<g ref="char:EOLhyphen"/>traction in this Caſe, no more then for commending the Moderation of a <hi>Popiſh Prince,</hi> in granting <hi>Liberty of Conſcience</hi> to Diſſenters, when like to have been Deſtroyed and De<g ref="char:EOLhyphen"/>voured by Perſecutors; yet the ſame juſtice of diſtinguiſhing between the more mode<g ref="char:EOLhyphen"/>rate ſort of <hi>Papiſts,</hi> and the Cruel, we have always allowed the Moderate <hi>Church of England</hi> People from the Perſecutors therein. And what if the <hi>Quakers</hi> have Exclaim<g ref="char:EOLhyphen"/>ed againſt the <hi>Papiſts</hi> former Perſecutions in <hi>Queen Mary</hi>'s days, but Commended their Moderation in <hi>King James</hi> the Seconds days: Or that the <hi>Quakers</hi> have condemned their Cruelties to the poor <hi>Proteſtants</hi> in <hi>France, &amp;c.</hi> but acknowledged their late Lenity in <hi>England;</hi> it follows not that the <hi>Quakers</hi> are double-minded, but the contrary. That they are of a ſingle mind, ſtill againſt Perſecution, and for Moderation and Charity. This is the true nature and ſtate of our Caſe, otherwiſe Abuſed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>6</label> Again, how notoriouſly has the Libeller falſified his Title page, in page 6. not keep<g ref="char:EOLhyphen"/>ing within bounds of his own method; Where in his firſt Collumn, <hi>Popiſh</hi> Reſervations, as to <hi>Teſts,</hi> is implyed, and the Blood and Cruelty that hath attended <hi>Popery;</hi> and in his ſecond Collumn, an Expreſs <hi>Teſt</hi> againſt <hi>Popery</hi> cited, and both fathered upon the <hi>Quakers;</hi> How then can the Second be what the <hi>Quakers</hi> have publiſhed on <hi>Papiſts</hi> be<g ref="char:EOLhyphen"/>half, as his Title pretends? What Credit can ſuch ſilly, contradictory confuſed Stuff be of, with any Perſon of common Sence? <hi>Nunc vide, audi, judica,</hi> (as his Terms are) How the Lybeller has acted the part of both Knave and Fool in Print, or like ſome Malicious Shatter-Head Apoſtate, to bring an Innocent People under Reproach and Contempt, by fallacious Abuſes, and notorious ſelf Contradictions.</p>
+            <p>But <hi>they have prayed for the late King in their Addreſſes,</hi> and wiſhed him well; and what then? So have a great many of the <hi>Church of England,</hi> in far more high and flouriſhing Expreſſions and Rhetorick in their Addreſſes to (and Prayers for) the Late King? And have they not alſo frequently prayed for him in their Lyturgy too? Are they all there<g ref="char:EOLhyphen"/>fore favourers of <hi>Popery,</hi> or of Papiſts <hi>as ſuch?</hi> At this rate who may eſcape the reproach<g ref="char:EOLhyphen"/>ful Pens of ſuch Libellizing Incendiaries? How ſhall the Doctrine or Practice even of the holy Apoſtles and Primitive Chriſtians go free? <hi>viz.</hi> to Pray for all men, even for Kings, and all in Authority, that under them they might live a peaceable and quiet Life, in all Godlineſs and Honeſty, and God knows we have aimed at no other. And this Chriſtian Converſation towards Authority, <hi>&amp;c.</hi> we hope in God ever to own, and ſtand by in the ſame Chriſtian Spirit. Having alſo in our Addreſs to King <hi>James</hi> 2. dated 6th of <hi>June</hi> (ſo called) 1688. Plainly declared, viz. <q>
+                  <hi>That we hope by God's Grace to let the World ſee we can honeſtly and heartily appear for Liberty of Conſcience, and be Inviolably true to our own Religion, whatever the Folly or Madneſs of ſome men on that account may ſug<g ref="char:EOLhyphen"/>geſt to the contrary, &amp;c.</hi>
+               </q> Where's now the double-mindedneſs? May not this beſpeak to the World our Sincerity, and anſwer and confute the Folly and Envy of our Adver<g ref="char:EOLhyphen"/>ſary? As to ſome Advice, Reaſons or Arguings, cited about <hi>Repeal of Teſts,</hi> &amp;c. p. 5. 6, 7, 8. he has not produced his Authors, nor of divers other things caſt upon the People called <hi>Quakers;</hi> and we know not who they are; thus cloudy and abmiguous is he in his <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>6, 7, 8.</label> works of Darkneſs, and deſigns againſt us. How proves he <hi>the Remonſtrance</hi> (he men<g ref="char:EOLhyphen"/>tions) <hi>to the Parliament after the Death of Sir</hi> Edmonbury Godfrey, to be the <hi>Quakers</hi> Re<g ref="char:EOLhyphen"/>monſtrance. We poſſitively deny that 'twas theirs, as the Libeller ſays 'twas. It nei<g ref="char:EOLhyphen"/>ther reſembles the <hi>Quakers</hi> in Matter nor Stile in many things. Where did ever the People called <hi>Quakers</hi> thus dictate to the Government, or uſe ſuch war-like Language as this, viz. <hi>Let every Proteſtant Family be well armed,</hi> &amp;c. <hi>Let there be an Act with a ſtrict</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Page </seg>8</label>
+               <hi>Penalty,</hi> &amp;c. <hi>That it ſhall be Treaſon for any Papiſt to entertain any Prieſt, Jeſuit, or Seminary in their Houſe?</hi> With much more of like nature unjuſtly caſt upon the harmleſs, <hi>Quakers,</hi> as their words. And if our Adverſary durſt ſhew himſelf, and were particularly que<g ref="char:EOLhyphen"/>ſtioned about every nameleſs Pamphlet he has quoted as ours, we are perſwaded he would be hard put to it for proof.</p>
+            <p>To conclude, our Sentiments, real Sence and Clearneſs in theſe matters from <hi>Popery,</hi> (unjuſtly inſinuated againſt us) may be ſumm'd up thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Our plain and ample Teſtimonies and Judgments given againſt Popery, Ido<g ref="char:EOLhyphen"/>latry and Superſtitions, Perſecutions and Cruelties, clears us not only from Popery, but from being of any Party with them, <hi>as Papiſts,</hi> and thoſe Teſtimonies we ſtand by.</p>
+            <p>
+               <hi>Secondly,</hi> Our Teſtifying againſt Perſecution, both in the Church of <hi>Rome,</hi> and as we
+<pb n="3" facs="tcp:174325:3"/>have deeply ſuffered under it, from many of the <hi>Church of England</hi> (eſpecially of the Clergy) is Evidence that we impartially and ſincerely diſown <hi>Popery,</hi> and the Spirit of it, for Perſecution is no better then <hi>Popery</hi> where-ever it is; and it can be no variation from our Teſtimony, to ſpeak more favourably of the Moderate ſort in both Churches, then of the Ridgged and Perſecuting in either, we muſt ſtill own the Good in all ſorts, and diſown the Bad where-ever it is.</p>
+            <p>
+               <hi>Thirdly,</hi> Thoſe Churches or Societies, who profeſs Reformation from <hi>Popery,</hi> and yet juſtly chargable with the Sin of <hi>Perſecution</hi> (which is <hi>Popery</hi>) againſt Diſſenters from them, are the more guilty in the ſight of God, becauſe of their Inſincerity in ſuch their pretences to Reformation.</p>
+            <p>
+               <hi>Fourthly,</hi> Our Requeſt to the late <hi>King</hi> for Releaſe of near One thouſand five hundred of our poor Afflicted Friends, out of Goals and ſtrait Confinements; and his delivering them, and us, and ours from the Spoilers, the Mercinary and Mercileſs Informers, and other Perſecutors and Spoilers; and our Returns of thankfulneſs, when Granted and Effected, tho by a <hi>Popiſh Prince,</hi> no ways Entitles us to <hi>Popery;</hi> nor have we cauſe to be aſhamed of ſuch Applications, or Gratefulneſs. We were Thankful to God and the King then for the Good we actually received, and hope we ſhall never be ungrateful now; and therefore we are not juſtly chargable with Double-mindedneſs, as the Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eller has Inſinuated, falſly applying <hi>James</hi> 4.8, 9, 10. to the <hi>Quakers.</hi> Bleſſed be God who hath preſerved us the ſame ſtill in our Integrity and Sincerity towards him; and in our Innocency, Peaceable Converſation, Love and Good-Will towards all men, high and low, Kings, Rulers and People, and the more Good any of them do us, the more they naturally Oblige us, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <dateline>London, <date>
+                     <hi>the</hi> 30th <hi>of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Month, called</hi> May 1689.</date>
+               </dateline>
+               <signed>
+                  <hi>Written in behalf of the Peaceable People of God called,</hi> Quakers, <hi>by ſome of them.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
